@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zia-does-byte but I go by Zia
+- 👋 Hi, I’m @ZiaBytesCookies but I go by Zia
 - 👀 I’m interested in data analysis, visualization, and turning complex datasets into clear, actionable insights.
 - 🌱 I’m currently learning advanced SQL techniques, dashboard design in Tableau, and data storytelling.
 - 💞️ I’m looking to collaborate on data-driven projects, exploratory data analysis (EDA), and open-source analytics challenges.
