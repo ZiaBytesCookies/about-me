@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning advanced SQL techniques, dashboard design in Tableau, and data storytelling.
 - 📫 How to reach me: [tasnimzia98@gmail.com] | [https://www.linkedin.com/in/tasnim-zia-proma/]
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love using data to find patterns in everyday life — from travel planning to language learning!
+
