@@ -1,8 +1,7 @@
 ### Hi there, I’m Zia 👋  
 Welcome to my GitHub!
 
-💻 I go by **@ZiaBytesCookies**, but you can call me **Zia**.  
-I’m a data enthusiast with a love for making messy data meaningful.
+💻 I’m a data enthusiast with a love for making messy data meaningful.
 
 🔍 **What I do:**  
 I analyze, visualize, and transform data into clear, actionable insights.  
