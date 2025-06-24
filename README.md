@@ -1,4 +1,4 @@
-### Hi there, I’m Zia 👋  
+### Hi, I’m Zia 👋  
 Welcome to my GitHub!
 
 💻 I’m a data enthusiast with a love for making messy data meaningful.
